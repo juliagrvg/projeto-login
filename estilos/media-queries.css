@@ -3,6 +3,7 @@
 @media screen and (min-width: 768px) and (max-width: 992px) /*TABLET*/{
     section#login {
         width: 80vw;
+        height: 292px;
     }
 
     section#login > div#imagem {
@@ -25,9 +26,10 @@
     }
 }
 
-@media screen and (min-width: 992px) and (max-width: 1200px)/*DESKTOP*/{
+@media screen and (min-width: 992px) and (max-width: 1800px)/*DESKTOP*/{
     section#login{
         width: 950px;
+        height: 292px;
     }
     
     section#login > div#imagem {
